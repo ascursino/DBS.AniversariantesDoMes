@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="DBS.AniversariantesDoMes.VisualWebParts.AniversarianteDoMes.AniversarianteDoMes, $SharePoint.Project.AssemblyFullName$" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">AniversarianteDoMes</property>
+        <property name="Description" type="string">Exibe a lista de Aniversariantes do mês corrente</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

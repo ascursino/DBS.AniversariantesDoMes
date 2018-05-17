@@ -1,0 +1,93 @@
+﻿.NomeAniversariante {
+	color: #FBAB1B;
+	font-weight: bold;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12pt;
+}
+.Texto {
+	color: #666;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10pt;
+}
+
+.SubTexto {
+	color: #999;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 8pt;
+}
+.Titulo {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #3361AE;
+}
+.Mensagem {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10pt;
+	color: #666;
+}
+
+
+
+
+ul.ul-aniversariantes
+{
+    list-style-image: url("/_layouts/images/DBS.AniversariantesDoMes/presente.png");    
+}
+
+li.aniversarianteDeHoje
+{
+    text-decoration:underline;
+}
+
+li.liAniversariante
+{    
+    text-align:center;
+    list-style-image: url("/_layouts/images/DBS.AniversariantesDoMes/bolo2.png");     
+    font-weight: bold;
+    font-size: 26pt;
+    vertical-align:middle;
+}
+
+img
+{
+    border:0;
+    text-decoration:none;
+}
+
+/* Obs: o # representa um id */
+/*
+#ImagemMensagemAniversario
+{
+ src: url("/_layouts/images/DBS.AniversariantesDoMes/bolo.png"); 
+ 
+}
+
+.trAutorMensagem
+{
+ background-color:#DDECFF;   
+}
+
+.trMensagem
+{
+    background-color:white;
+}
+
+#tbNovaMsg
+{
+    background-color:#DDECFF;    
+    width:100%;
+}
+
+.tabMensagens
+{
+    width:100%;
+}
+
+#imgBolo
+{
+    width:70px;
+    height:50px;
+}
+*/
+

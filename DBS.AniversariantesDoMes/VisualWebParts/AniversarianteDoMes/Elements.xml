@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="AniversarianteDoMes" List="113" Url="_catalogs/wp">
+    <File Path="AniversarianteDoMes\AniversarianteDoMes.webpart" Url="AniversarianteDoMes.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="DBS" />
+    </File>
+  </Module>
+</Elements>

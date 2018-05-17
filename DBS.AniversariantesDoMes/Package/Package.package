@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="c37a8249-7434-45a7-ad61-33da94c485b9" solutionId="c37a8249-7434-45a7-ad61-33da94c485b9" resetWebServer="false" name="DBS.AniversariantesDoMes" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="8835c3ec-7e98-48aa-959e-5a913a543654" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="81796daf-9833-40f0-b55e-d7b285e6ddc6" />
+    <projectItemReference itemId="cabbcfe9-76e6-4e7d-802d-d21a1167e157" />
+  </projectItems>
+</package>
